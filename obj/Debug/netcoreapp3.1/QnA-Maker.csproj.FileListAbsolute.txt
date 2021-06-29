@@ -1,0 +1,13 @@
+/home/jeff/Projects/QnA-Maker/bin/Debug/netcoreapp3.1/QnA-Maker
+/home/jeff/Projects/QnA-Maker/bin/Debug/netcoreapp3.1/QnA-Maker.deps.json
+/home/jeff/Projects/QnA-Maker/bin/Debug/netcoreapp3.1/QnA-Maker.runtimeconfig.json
+/home/jeff/Projects/QnA-Maker/bin/Debug/netcoreapp3.1/QnA-Maker.runtimeconfig.dev.json
+/home/jeff/Projects/QnA-Maker/bin/Debug/netcoreapp3.1/QnA-Maker.dll
+/home/jeff/Projects/QnA-Maker/bin/Debug/netcoreapp3.1/QnA-Maker.pdb
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.csprojAssemblyReference.cache
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.AssemblyInfoInputs.cache
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.AssemblyInfo.cs
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.csproj.CoreCompileInputs.cache
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.dll
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.pdb
+/home/jeff/Projects/QnA-Maker/obj/Debug/netcoreapp3.1/QnA-Maker.genruntimeconfig.cache
