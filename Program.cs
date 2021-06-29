@@ -6,9 +6,9 @@ namespace QnA_Maker
 {
     class Program
     {
-        private const string endpointVar = "https://qnamakerproof.azurewebsites.net/qnamaker";
-        private const string endpointKeyVar = "115e9db1-fac5-4a82-8df1-fde1a6829fbb";
-        private const string kbIdVar = "e522b40c-8785-4c49-a348-6daaa475a91d";
+        private const string endpointVar = "https://{your-resource-name}.azurewebsites.net/qnamaker";
+        private const string endpointKeyVar = "{your-key}";
+        private const string kbIdVar = "{your-kb-id}";
 
         // Your QnA Maker resource endpoint.
         // From Publish Page: HOST
