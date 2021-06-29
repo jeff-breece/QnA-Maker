@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sXTP0rRi02rBTBWb4ePubkYiJhv+Bve8uPhqgnLsfsbKP7jqIvvvlZ2K9ANSf0UYR1WiEkB4EY+HoTshy44sDg==",
+  "dgSpecHash": "zpOSwZLRwsvj0Azp0T2Vrys8tKpPB6IIJkpx9xTm8Q8Eoy/lUap787vBuwHpuzJ71oQimjX9KyAzG/JLEXxwdg==",
   "success": true,
-  "projectFilePath": "/home/jeff/Projects/QnA-Maker/QnA-Maker.csproj",
+  "projectFilePath": "C:\\src\\QnA-Maker\\QnA-Maker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

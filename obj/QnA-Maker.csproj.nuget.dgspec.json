@@ -1,29 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/jeff/Projects/QnA-Maker/QnA-Maker.csproj": {}
+    "C:\\src\\QnA-Maker\\QnA-Maker.csproj": {}
   },
   "projects": {
-    "/home/jeff/Projects/QnA-Maker/QnA-Maker.csproj": {
+    "C:\\src\\QnA-Maker\\QnA-Maker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeff/Projects/QnA-Maker/QnA-Maker.csproj",
+        "projectUniqueName": "C:\\src\\QnA-Maker\\QnA-Maker.csproj",
         "projectName": "QnA-Maker",
-        "projectPath": "/home/jeff/Projects/QnA-Maker/QnA-Maker.csproj",
-        "packagesPath": "/home/jeff/.nuget/packages/",
-        "outputPath": "/home/jeff/Projects/QnA-Maker/obj/",
+        "projectPath": "C:\\src\\QnA-Maker\\QnA-Maker.csproj",
+        "packagesPath": "C:\\Users\\jbreece\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\QnA-Maker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/jeff/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jbreece\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.410/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
